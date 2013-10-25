@@ -1,0 +1,15 @@
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\OpaqSysSet.Model.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\OpaqSysSet.Model.pdb
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Netposa.Framework.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\NHibernate.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Autofac.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\log4net.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Iesi.Collections.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Netposa.Framework.pdb
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\NHibernate.xml
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Autofac.xml
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\log4net.xml
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\bin\Debug\Iesi.Collections.xml
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\obj\Debug\OpaqSysSet.Model.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Model\obj\Debug\OpaqSysSet.Model.pdb

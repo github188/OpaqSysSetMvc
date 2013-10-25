@@ -1,0 +1,212 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="857CBF87-9405-453C-9483-0ACC2EEE8865/f:ApplicationConfig.cs" caret="104" fromTop="4" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:hibernate.cfg.xml" caret="1418" fromTop="17" />
+      <File id="857CBF87-9405-453C-9483-0ACC2EEE8865/d:Repositories/f:Config.cs" caret="922" fromTop="15" />
+      <File id="857CBF87-9405-453C-9483-0ACC2EEE8865/f:NhibreateSessionHttpModel.cs" caret="914" fromTop="14" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Scripts/f:jquery-2.0.0.min.js" caret="65307" fromTop="2" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:Web.config" caret="1067" fromTop="24" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Content/f:style.css" caret="0" fromTop="0" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Content/f:top.css" caret="2348" fromTop="26" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:config/f:Config.xml" caret="3050" fromTop="22" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:default.aspx.cs" caret="624" fromTop="1" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="122E4193-CF56-4845-9777-12867467FA47/f:BigInfo.cs" caret="147" fromTop="6" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:About.aspx" caret="0" fromTop="0" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:Index.aspx" caret="100" fromTop="0" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:AccountController.cs" caret="604" fromTop="5" />
+      <File id="244E672E-E8C1-46C4-9E67-C25123C2521C/f:BigInfo.hbm.xml" caret="918" fromTop="19" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Models/f:DbHelper.cs" caret="417" fromTop="12" />
+      <File id="857CBF87-9405-453C-9483-0ACC2EEE8865/d:Repositories/f:NHibernateDatabaseFactory.cs" caret="3560" fromTop="12" />
+      <File id="122E4193-CF56-4845-9777-12867467FA47/f:BigTable.cs" caret="451" fromTop="12" />
+      <File id="244E672E-E8C1-46C4-9E67-C25123C2521C/f:BigTable.hbm.xml" caret="972" fromTop="20" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Content/d:easyUI/f:extEasyUIIcon.css" caret="670" fromTop="27" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Scripts/f:default.js" caret="4387" fromTop="16" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BiginfoList.aspx" caret="265" fromTop="0" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BigTableList.aspx" caret="1589" fromTop="17" />
+      <File id="244E672E-E8C1-46C4-9E67-C25123C2521C/f:Database.hbm.xml" caret="759" fromTop="13" />
+      <File id="122E4193-CF56-4845-9777-12867467FA47/f:Database.cs" caret="568" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="1976" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="1391" fromTop="26" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:default.aspx" caret="1021" fromTop="20" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:Global.asax.cs" caret="500" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Scripts/f:default.js" caret="4511" fromTop="23" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:default.aspx" caret="4585" fromTop="14" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="1762" fromTop="9" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BigTableList.aspx" caret="803" fromTop="15" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BiginfoList.aspx" caret="1239" fromTop="22" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BiginfoList.aspx" caret="997" fromTop="14" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BigTableList.aspx" caret="1486" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BigTableList.aspx" caret="1476" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:BigTableList.aspx" caret="1392" fromTop="17" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="1621" fromTop="13" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="3170" fromTop="17" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="3170" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="3170" fromTop="22" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Controllers/f:HomeController.cs" caret="2257" fromTop="22" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="1690" fromTop="15" />
+      <File id="244E672E-E8C1-46C4-9E67-C25123C2521C/f:Database.hbm.xml" caret="637" fromTop="10" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="641" fromTop="9" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3437" fromTop="21" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3574" fromTop="25" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3760" fromTop="22" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3252" fromTop="18" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="2933" fromTop="26" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="2933" fromTop="28" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="2933" fromTop="27" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="2933" fromTop="20" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3252" fromTop="24" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="3073" fromTop="23" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/d:Views/d:Home/f:DbList.aspx" caret="1879" fromTop="15" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:default.aspx" caret="1134" fromTop="23" />
+      <File id="210A1B5E-3569-4134-9F8F-221B0C83F07E/f:default.aspx" caret="258" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="18" />
+      <Item value="class" priority="0" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="this" priority="4" />
+      <Item value="_mysqlcon" priority="0" />
+      <Item value="JsonResult`0" priority="1" />
+      <Item value="int" priority="10" />
+      <Item value="helper" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="DbHelper" priority="0" />
+      <Item value="sql" priority="1" />
+      <Item value="var" priority="8" />
+      <Item value="string" priority="6" />
+      <Item value="return" priority="6" />
+      <Item value="Netposa" priority="2" />
+      <Item value="Framework" priority="2" />
+      <Item value="Model" priority="2" />
+      <Item value="Enttiy" priority="0" />
+      <Item value="virtual" priority="5" />
+      <Item value="enum" priority="1" />
+      <Item value="Database`0" priority="2" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="Repositories" priority="1" />
+      <Item value="NHibernateDatabaseFactory`0" priority="1" />
+      <Item value="SelectList`0" priority="0" />
+      <Item value="session" priority="2" />
+      <Item value="System" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="Page`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="sqls" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="ActionResult`0" priority="3" />
+      <Item value="View`0" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="Url`0" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="OpaqSysSet" priority="2" />
+      <Item value="rows" priority="4" />
+      <Item value="page" priority="1" />
+      <Item value="query" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="NHibernate" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="DbSession" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="AllowGet" priority="0" />
+      <Item value="m" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpaqSysSetMvc.Models.DbHelper">
+      <Item value="CloseConnect`0" priority="0" />
+      <Item value="Query`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Netposa.Framework.Repositories.NHibernateDatabaseFactory">
+      <Item value="GetSession`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="CreateSQLQuery`0" priority="2" />
+      <Item value="Query`1" priority="1" />
+      <Item value="CreateQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISQLQuery">
+      <Item value="List`1" priority="0" />
+      <Item value="SetMaxResults`0" priority="1" />
+      <Item value="UniqueResult`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.IQuery">
+      <Item value="SetFirstResult`0" priority="1" />
+      <Item value="SetFetchSize`0" priority="0" />
+      <Item value="List`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpaqSysSetMvc.Controllers.HomeController">
+      <Item value="DbSession" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Fetch`2" priority="0" />
+      <Item value="Take`1" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="Skip`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpaqSysSet.Model.Database">
+      <Item value="Id" priority="0" />
+      <Item value="Host" priority="0" />
+      <Item value="Pass" priority="0" />
+      <Item value="Port" priority="0" />
+      <Item value="User" priority="0" />
+      <Item value="DbType" priority="0" />
+      <Item value="Db" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP.views_home_dblist_aspx">
+      <Item value="Html" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="TextBox`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

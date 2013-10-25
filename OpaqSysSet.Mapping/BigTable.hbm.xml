@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-access="property" auto-import="true" default-cascade="none" default-lazy="true">
+  <class name="OpaqSysSet.Model.BigTable, OpaqSysSet.Model" table="opaq_sys_big_table">
+    <id name="Id" type="Int32" unsaved-value="null">
+      <column name="ID" length="16" sql-type="int" not-null="true" unique="true"/>
+      <generator class="native" />
+    </id> 
+    <property name="DbId" >
+      <column name="DbId"  />
+    </property>
+    <property name="SplitId" >
+      <column name="SplitId"  />
+    </property>
+    <property name="ValueType" type="OpaqSysSet.Model.ValueType,OpaqSysSet.Model">
+      <column name="ValueType" length="3" sql-type="int" not-null="false"/>
+    </property>
+    <property name="TableName"  >
+      <column name="TableName"/>
+    </property>
+    <property name="SplitCol">
+      <column name="SplitCol"></column>
+    </property>
+    <property name="MinValue">
+      <column name="MinValue"></column>
+    </property>
+    <property name="MaxValue">
+      <column name="MaxValue"></column>
+    </property>
+    <property name="SmallId">
+      <column name="SmallId"></column>
+    </property>
+    <property name="SmallName">
+      <column name="SmallName"></column>
+    </property>
+    <property name="Idx">
+      <column name="Idx"></column>
+    </property>
+  </class>
+</hibernate-mapping>

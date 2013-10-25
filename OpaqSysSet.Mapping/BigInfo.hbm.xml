@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-access="property" auto-import="true" default-cascade="none" default-lazy="true">
+  <class name="OpaqSysSet.Model.BigInfo, OpaqSysSet.Model" table="opaq_sys_biginfo">
+    <id name="Id" type="Int32" unsaved-value="null">
+      <column name="ID" length="16" sql-type="int" not-null="true" unique="true"/>
+      <generator class="native" />
+    </id>
+    <property name="ValueType" type="OpaqSysSet.Model.ValueType,OpaqSysSet.Model">
+      <column name="ValueType" length="3" sql-type="int" not-null="false"/>
+    </property>
+    <property name="Idx">
+      <column name="Idx"></column>
+    </property>
+    <property name="Col">
+      <column name="Col"></column>
+    </property>
+    <property name="TableName">
+      <column name="TableName"></column>
+    </property>
+  </class>
+</hibernate-mapping>

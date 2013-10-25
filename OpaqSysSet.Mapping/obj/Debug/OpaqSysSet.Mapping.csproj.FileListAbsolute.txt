@@ -1,0 +1,5 @@
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Mapping\bin\Debug\OpaqSysSet.Mapping.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Mapping\bin\Debug\OpaqSysSet.Mapping.pdb
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Mapping\obj\Debug\ResolveAssemblyReference.cache
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Mapping\obj\Debug\OpaqSysSet.Mapping.dll
+F:\公司代码\OpaqSysSetMvc\OpaqSysSetMvc\OpaqSysSet.Mapping\obj\Debug\OpaqSysSet.Mapping.pdb

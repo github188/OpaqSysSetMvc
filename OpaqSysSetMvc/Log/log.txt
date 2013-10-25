@@ -1,0 +1,381 @@
+2013-10-22 11:05:42,697 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 11:08:22,275 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 11:27:18,616 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 14:57:21,482 [10] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table
+2013-10-22 14:57:21,517 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database 
+2013-10-22 14:57:21,520 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 14:57:37,809 [6] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table
+2013-10-22 14:57:42,392 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database 
+2013-10-22 14:57:47,583 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 14:58:30,755 [10] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table
+2013-10-22 14:58:38,677 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database 
+2013-10-22 14:58:38,680 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo
+2013-10-22 15:38:44,874 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:39:08,510 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From select * from opaq_2.opaq_sys_database as _NewTable 
+2013-10-22 15:39:46,946 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:39:46,968 [10] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 15:40:02,525 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:40:02,528 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 15:40:10,308 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:40:10,311 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 15:40:40,604 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:40:40,628 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 15:41:12,037 [11] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0, ?p1;?p0 = 1 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 15:41:19,166 [11] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 15:42:09,892 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 15:42:13,329 [10] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:03:55,795 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:03:55,824 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:04:29,904 [13] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:04:29,906 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:04:53,773 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:04:53,776 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:04:55,427 [14] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:04:55,429 [14] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:05:11,555 [13] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:05:11,558 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:09:51,552 [5] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:09:51,574 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:09:53,807 [11] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:09:53,809 [11] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:10:32,961 [17] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:10:32,963 [17] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:10:33,705 [6] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:10:33,707 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:11:07,416 [11] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:11:07,418 [11] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:11:15,089 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:11:15,091 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:11:15,987 [5] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:11:15,989 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:14:48,077 [13] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:14:48,100 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:14:52,433 [10] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:14:52,435 [10] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:14:54,240 [13] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:14:54,242 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:14:55,275 [10] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:14:55,278 [10] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:15:11,851 [10] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:11,854 [10] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:15:12,895 [14] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:12,897 [14] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:15:14,126 [13] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:14,129 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:15:16,015 [13] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:16,017 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:15:33,059 [17] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:33,061 [17] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:15:34,748 [17] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:15:34,750 [17] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:16:17,407 [15] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:17,409 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:16:19,761 [15] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:19,763 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:16:21,303 [16] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:21,306 [16] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:16:22,522 [13] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:22,524 [13] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:16:56,366 [15] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:56,368 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:16:57,956 [15] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:57,958 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:16:58,944 [12] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:16:58,946 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:17:14,726 [6] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:14,728 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:17:16,253 [12] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:16,255 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:17:17,226 [14] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:17,228 [14] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:17:54,850 [15] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:54,853 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:17:55,906 [17] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:55,908 [17] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:17:57,136 [15] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:17:57,138 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:18:27,688 [12] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:27,691 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:18:29,321 [12] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:29,323 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:18:30,330 [6] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:30,333 [6] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:18:31,670 [12] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:31,671 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:18:32,486 [12] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:32,489 [12] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:18:33,408 [14] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:33,410 [14] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:18:33,952 [15] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:18:33,953 [15] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:27:03,085 [21] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:27:03,093 [21] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:27:04,096 [23] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:27:04,098 [23] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:28:43,725 [19] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:28:43,728 [19] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:28:44,836 [22] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:28:44,838 [22] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:28:45,730 [19] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:28:45,732 [19] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:29:10,409 [21] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:10,411 [21] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:29:11,564 [22] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:11,566 [22] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:29:12,904 [22] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:12,906 [22] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:29:14,594 [23] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:14,597 [23] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:29:15,404 [22] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:15,406 [22] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:29:16,203 [22] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:16,205 [22] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:29:17,080 [21] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:17,082 [21] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:29:19,095 [18] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:19,098 [18] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:29:19,956 [18] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:19,957 [18] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:29:20,767 [18] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:29:20,770 [18] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:30:01,460 [23] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:30:01,463 [23] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:30:02,370 [25] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:30:02,373 [25] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:30:03,262 [25] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:30:03,264 [25] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:31:40,655 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:31:40,657 [26] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:31:41,447 [24] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:31:41,449 [24] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:31:42,120 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:31:42,122 [26] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:32:09,684 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:32:09,686 [28] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:32:11,266 [30] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:32:11,268 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:33:02,644 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:33:02,646 [26] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:33:05,605 [30] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:33:05,606 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:33:13,050 [27] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:33:13,052 [27] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:33:14,559 [31] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:33:14,561 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:35:47,818 [32] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:35:47,820 [32] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:35:48,991 [31] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:35:48,993 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:35:50,235 [32] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:35:50,237 [32] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:36:08,375 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:36:08,377 [33] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:36:09,886 [34] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:36:09,888 [34] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:36:11,611 [32] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:36:11,613 [32] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:38:27,868 [31] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:38:27,871 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:38:56,226 [29] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:38:56,228 [29] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:38:59,066 [31] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:38:59,068 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:39:23,936 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:39:23,938 [29] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:40:54,631 [35] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:40:54,633 [35] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:40:55,779 [36] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:40:55,780 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:40:56,864 [31] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:40:56,866 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:41:00,479 [28] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:00,481 [28] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:41:01,737 [36] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:01,739 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:41:03,399 [36] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:03,402 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:41:04,699 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:04,702 [37] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:41:16,519 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:16,521 [28] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:41:17,784 [31] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:17,789 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:41:18,655 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:18,656 [37] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:41:19,528 [36] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:41:19,530 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:42:37,797 [36] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:37,799 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:42:40,508 [38] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:40,510 [38] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:42:41,853 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:41,855 [29] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:42:50,552 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:50,554 [41] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:42:52,363 [36] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:52,365 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:42:53,263 [40] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:53,265 [40] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:42:53,780 [38] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:53,782 [38] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:42:54,279 [40] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:42:54,282 [40] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:46:42,437 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:46:42,439 [41] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:48:48,013 [46] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:48:48,015 [46] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:48:49,002 [49] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:48:49,004 [49] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:49:04,624 [46] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:04,626 [46] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:49:23,142 [51] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:23,166 [51] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:49:24,100 [48] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:24,103 [48] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:49:43,687 [46] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:43,689 [46] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:49:45,925 [48] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:45,927 [48] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:49:47,174 [44] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:49:47,177 [44] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:50:14,276 [47] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:50:14,278 [47] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:50:15,374 [46] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:50:15,376 [46] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:50:17,956 [47] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:50:17,958 [47] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:50:57,241 [40] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:50:57,243 [40] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:51:09,942 [39] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:51:09,944 [39] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:52:01,966 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:52:01,969 [41] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:52:31,372 [39] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:52:31,375 [39] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:52:37,058 [44] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:52:37,061 [44] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:52:51,307 [44] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:52:51,309 [44] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:55:22,248 [36] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:55:22,249 [36] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:55:23,934 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:55:23,937 [37] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:57:12,138 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:57:12,140 [43] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:57:13,594 [46] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:57:13,596 [46] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:58:23,559 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:58:23,561 [29] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:58:24,721 [38] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:58:24,723 [38] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:59:38,461 [32] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:59:38,463 [32] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:59:40,316 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:59:40,317 [33] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 16:59:42,421 [31] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:59:42,422 [31] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 16:59:43,389 [32] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:59:43,391 [32] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 16:59:44,249 [27] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 16:59:44,251 [27] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:00:37,957 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:00:37,959 [33] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:00:38,831 [27] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:00:38,834 [27] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:00:39,747 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:00:39,749 [33] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 17:01:28,542 [34] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:01:28,544 [34] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 17:01:29,901 [30] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:01:29,903 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:01:31,826 [30] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:01:31,828 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:01:36,621 [30] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:01:36,648 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:01:37,236 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_database limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:01:37,238 [26] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_database)  _NewTable 
+2013-10-22 17:06:46,545 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.DbType as DbType2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:07:23,142 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.DbType as DbType2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:07:29,513 [32] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.DbType as DbType2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:09:04,840 [39] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:09:04,928 [39] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:11:41,102 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:11:41,104 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:12:29,270 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:12:29,272 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:12:31,141 [37] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:12:31,146 [37] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:12:31,911 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:12:31,914 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:13:15,964 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:13:15,967 [45] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:14:06,539 [38] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:14:06,542 [38] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:17:02,236 [30] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:17:02,239 [30] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:18:41,895 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:18:41,897 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:19:03,014 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:19:03,016 [29] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:19:16,831 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:19:16,833 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:19:58,959 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:19:58,961 [28] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:20:38,719 [34] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:20:38,722 [34] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:20:56,500 [34] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:20:56,503 [34] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:21:27,221 [27] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:21:27,223 [27] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:21:49,860 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:21:49,862 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:22:12,524 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:22:12,526 [33] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:22:31,320 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:22:31,375 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:22:55,033 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:22:55,036 [37] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:23:11,247 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:23:11,250 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:23:27,393 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:23:27,395 [43] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:23:40,934 [39] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:23:40,939 [39] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:24:04,044 [35] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:24:04,046 [35] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:27:24,282 [44] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:27:24,286 [44] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:27:25,186 [51] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:27:25,188 [51] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:27:36,969 [52] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:27:36,972 [52] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:27:37,821 [52] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:27:37,823 [52] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:27:38,673 [44] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:27:38,675 [44] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:31:51,712 [48] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:51,721 [48] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:31:52,476 [52] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:52,478 [52] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:31:53,214 [39] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:53,216 [39] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:31:53,741 [38] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:53,744 [38] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:31:54,231 [30] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:54,233 [30] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:31:55,237 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:31:55,240 [26] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:32:13,310 [48] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:32:13,312 [48] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:39:11,093 [27] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:39:11,117 [27] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:39:12,065 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:39:12,101 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:39:12,628 [41] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:39:12,630 [41] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
+2013-10-22 17:42:34,462 [11] DEBUG NHibernate.SQL [(null)] <(null)> - select database0_.ID as ID2_, database0_.Host as Host2_, database0_.Type as Type2_, database0_.Port as Port2_, database0_.User as User2_, database0_.Pass as Pass2_, database0_.Db as Db2_ from opaq_sys_database database0_ limit ?p0, ?p1;?p0 = 0 [Type: Int32 (0)], ?p1 = 10 [Type: Int32 (0)]
+2013-10-22 17:42:34,520 [11] DEBUG NHibernate.SQL [(null)] <(null)> - select cast(count(*) as SIGNED) as col_0_0_ from opaq_sys_database database0_
+2013-10-22 17:42:34,948 [11] DEBUG NHibernate.SQL [(null)] <(null)> - SELECT * FROM opaq_2.opaq_sys_big_table limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:42:34,953 [11] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (SELECT * FROM opaq_2.opaq_sys_big_table)  _NewTable 
+2013-10-22 17:42:35,941 [5] DEBUG NHibernate.SQL [(null)] <(null)> - select * from opaq_2.opaq_sys_biginfo limit ?p0;?p0 = 10 [Type: Int32 (0)]
+2013-10-22 17:42:35,943 [5] DEBUG NHibernate.SQL [(null)] <(null)> - Select Count(1) As RowCount From (select * from opaq_2.opaq_sys_biginfo)  _NewTable 
